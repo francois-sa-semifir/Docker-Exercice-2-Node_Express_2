@@ -1,3 +1,7 @@
-# Exercice 2 - Dockerfile Node 2
+# Dockerfile Node Express
 
-Fichier pour réaliser l'exercice 2
+Fichiers pour réaliser :
+
+- La démo du Dockerfile
+- La correction de l'exerice 1
+- L'exercie 2 et sa correction
